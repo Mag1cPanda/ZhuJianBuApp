@@ -1,0 +1,46 @@
+//
+//  ZhuJianBuApp.pch
+//  ZhuJianBuApp
+//
+//  Created by Mag1cPanda on 2017/2/3.
+//  Copyright © 2017年 Mag1cPanda. All rights reserved.
+//
+
+#ifndef ZhuJianBuApp_pch
+#define ZhuJianBuApp_pch
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+
+#endif /* ZhuJianBuApp_pch */
+
+
+#import "UIView+Frame.h"
+#import "MBProgressHUD.h"
+#import "Globle.h"
+#import "Util.h"
+#import "ZJNetworkingManager.h"
+#import "IDyz.h"
+
+#define ZJServiceIP @"http://hmdp.longrise.cn/restservices/hmdpapprest"
+
+//#define ZJServiceIP @"http://192.168.3.236:8080/HMDP/restservices/hmdpapprest"
+
+#define ZJKey @"h(m7~D^p"
+
+//颜色宏定义
+#define RGBA(r,g,b,a) [UIColor colorWithRed:r/255.0f green:g/255.0f blue:b/255.0f alpha:a]
+#define RGB(r,g,b) RGBA(r,g,b,1.0)
+
+#define ZJGray RGB(231, 231, 231)
+#define DarkTextColor RGB(102, 102, 102)
+//#define LightTextColor RGB(200, 200, 200)
+
+//字体
+#define ZJFont(x) [UIFont systemFontOfSize:x]
+
+//获取设备的物理高度
+#define ScreenHeight [UIScreen mainScreen].bounds.size.height
+
+//获取设备的物理宽度
+#define ScreenWidth [UIScreen mainScreen].bounds.size.width

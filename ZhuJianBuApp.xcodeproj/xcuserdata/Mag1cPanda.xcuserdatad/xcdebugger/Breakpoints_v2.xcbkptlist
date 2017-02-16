@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.ExceptionBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            scope = "0"
+            stopOnStyle = "0">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ZhuJianBuApp/Login&amp;Register/ForgetPasswordViewController.m"
+            timestampString = "508833060.0816"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "446"
+            endingLineNumber = "446"
+            landmarkName = "-confirmBtnClicked"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[ForgetPasswordViewController confirmBtnClicked]"
+                  moduleName = "ZhuJianBuApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/siren/Desktop/ZhuJianBuApp/ZhuJianBuApp/Login&amp;Register/ForgetPasswordViewController.m"
+                  timestampString = "508752033.358842"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "433"
+                  endingLineNumber = "433"
+                  offsetFromSymbolStart = "2088">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__49-[ForgetPasswordViewController confirmBtnClicked]_block_invoke"
+                  moduleName = "ZhuJianBuApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/siren/Desktop/ZhuJianBuApp/ZhuJianBuApp/Login&amp;Register/ForgetPasswordViewController.m"
+                  timestampString = "508752033.361051"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "433"
+                  endingLineNumber = "433"
+                  offsetFromSymbolStart = "24">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ZhuJianBuApp/Login&amp;Register/RegisterViewController.m"
+            timestampString = "508817761.03059"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "421"
+            endingLineNumber = "421"
+            landmarkName = "-initScroll"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ZhuJianBuApp/&#x4e2a;&#x4eba;&#x4fe1;&#x606f;/XGMMViewController.m"
+            timestampString = "508834084.230689"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "106"
+            endingLineNumber = "106"
+            landmarkName = "-confirmChangeBtnClicked"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[XGMMViewController confirmChangeBtnClicked]"
+                  moduleName = "ZhuJianBuApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/siren/Desktop/ZhuJianBuApp/ZhuJianBuApp/%E4%B8%AA%E4%BA%BA%E4%BF%A1%E6%81%AF/XGMMViewController.m"
+                  timestampString = "508831278.010316"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "105"
+                  endingLineNumber = "105"
+                  offsetFromSymbolStart = "2336">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__45-[XGMMViewController confirmChangeBtnClicked]_block_invoke"
+                  moduleName = "ZhuJianBuApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/siren/Desktop/ZhuJianBuApp/ZhuJianBuApp/%E4%B8%AA%E4%BA%BA%E4%BF%A1%E6%81%AF/XGMMViewController.m"
+                  timestampString = "508831278.012135"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "105"
+                  endingLineNumber = "105"
+                  offsetFromSymbolStart = "28">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ZhuJianBuApp/Login&amp;Register/ForgetPasswordViewController.m"
+            timestampString = "508833060.0816"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "320"
+            endingLineNumber = "320"
+            landmarkName = "-getVerificationCode"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[ForgetPasswordViewController getVerificationCode]"
+                  moduleName = "ZhuJianBuApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/siren/Desktop/ZhuJianBuApp/ZhuJianBuApp/Login&amp;Register/ForgetPasswordViewController.m"
+                  timestampString = "508832238.530159"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "315"
+                  endingLineNumber = "315"
+                  offsetFromSymbolStart = "1880">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__51-[ForgetPasswordViewController getVerificationCode]_block_invoke.260"
+                  moduleName = "ZhuJianBuApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/siren/Desktop/ZhuJianBuApp/ZhuJianBuApp/Login&amp;Register/ForgetPasswordViewController.m"
+                  timestampString = "508832238.534788"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "315"
+                  endingLineNumber = "315"
+                  offsetFromSymbolStart = "24">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
